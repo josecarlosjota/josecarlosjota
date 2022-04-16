@@ -1,7 +1,7 @@
 ### Olá! Eu sou o José Carlos Espíndola 👋
 
-- 🌱 Estudando Front-end e Back-end.
-- 😄 Pronouns: ele/dele
+- 🌱 Estudante: Front-end e Back-end.
+- 😄 Pronome: ele/dele
 -->
 
 <div>
